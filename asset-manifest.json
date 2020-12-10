@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-stars-game/static/css/main.6edf329b.chunk.css",
+    "main.js": "/react-stars-game/static/js/main.df4e17ec.chunk.js",
+    "main.js.map": "/react-stars-game/static/js/main.df4e17ec.chunk.js.map",
+    "runtime-main.js": "/react-stars-game/static/js/runtime-main.107770f8.js",
+    "runtime-main.js.map": "/react-stars-game/static/js/runtime-main.107770f8.js.map",
+    "static/js/2.7eb75f1e.chunk.js": "/react-stars-game/static/js/2.7eb75f1e.chunk.js",
+    "static/js/2.7eb75f1e.chunk.js.map": "/react-stars-game/static/js/2.7eb75f1e.chunk.js.map",
+    "static/js/3.c94a1bfe.chunk.js": "/react-stars-game/static/js/3.c94a1bfe.chunk.js",
+    "static/js/3.c94a1bfe.chunk.js.map": "/react-stars-game/static/js/3.c94a1bfe.chunk.js.map",
+    "index.html": "/react-stars-game/index.html",
+    "static/css/main.6edf329b.chunk.css.map": "/react-stars-game/static/css/main.6edf329b.chunk.css.map",
+    "static/js/2.7eb75f1e.chunk.js.LICENSE.txt": "/react-stars-game/static/js/2.7eb75f1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.107770f8.js",
+    "static/js/2.7eb75f1e.chunk.js",
+    "static/css/main.6edf329b.chunk.css",
+    "static/js/main.df4e17ec.chunk.js"
+  ]
+}
