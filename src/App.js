@@ -6,6 +6,7 @@ import StarsDisplay from "./components/StarsDisplay";
 
 const PlayAgain = props => (
 	<div className="game-done">
+     <h2 className="message" style={{ color: 'green'}}>You won!!</h2> 
 	  <button onClick={props.onClick}>Play Again</button>
 	</div>
 );
@@ -91,7 +92,7 @@ const App = () =>{
                 )}
         </div>
       </div>
-      <div className="timer">Time Remaining: 10</div>
+      
     </div>
   );
 }
